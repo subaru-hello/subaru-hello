@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @subaru-hello
-- 👀 I’m interested in FjordBootCamp!
-- 🌱 I’m currently learning Ruby on Rails6! Also, learning PHP in my company calicula.
-- 📫 How to reach me ...
+- 👋 Hi, I’m @subaru-hello. 23 years old worked at Trust bank before!
+- 👀 I’m interested in high-nutritious meals with cheap price! feel free to text me if you know it!
+- 🌱 I’m currently learning Ruby ,using Rails6 as a library! 
+
 
 <!---
 subaru-hello/subaru-hello is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
