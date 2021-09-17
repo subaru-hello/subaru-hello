@@ -1,19 +1,25 @@
-Battle of Runteqからご覧いただきありがとうございます！
-簡単な自己紹介をさせていただきますね。
+Battle of Runteqからご覧いただきありがとうございます！ <br>
+簡単な自己紹介をさせていただきますね。 <br>
+<h2><strong> From </strong> </h2>
 23歳　横浜出身
 青山学院大学国際政治経済学部出身
+<h2><strong> Club </strong> </h2>
 体育会陸上競技部短距離に所属していました。
 ちなみに少しだけ足が速いです。
 https://youtu.be/9jHg9yiHU18
 
+<h2> 今何してるの? </h2>
 現在は、RUNTEQに所属しながら、バックエンドエンジニアを目指して学習中です。
 バックエンドエンジニアとして叶えたいことは主に以下の２つ。
 - 社会人のWellBeingを向上させる
 - ２５歳までに熱狂できる軸を見つける
+
+<h2>思想</h2>
 老子の思想が好きで、
 「上善は水の如し」という句がお気に入りです。
 
-
+<br>
+<h2> English Entry </h2>
 Really appriciate your visiting my profile through Battle of Runteq hosted by StartUp Technologies.Inc
 Greate honor to introducing myself as below.
 Made from Yokohama, 23 years old.
