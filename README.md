@@ -5,7 +5,7 @@
 <a href="https://github.com/subaru-hello/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=subaru-hello" />
 </a>
-
+<br>
 <h2><strong> From </strong> </h2>
 23歳　横浜出身
 青山学院大学国際政治経済学部出身
