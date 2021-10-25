@@ -1,3 +1,5 @@
+[![subaru's GitHub stats](https://github-readme-stats.vercel.app/api?username=subaru-hello)](https://github.com/subaru-hello/github-readme-stats)
+
 
 <h2><strong> From </strong> </h2>
 23歳　横浜出身
