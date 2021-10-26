@@ -1,15 +1,11 @@
-
+<h2>
 <a href="https://github.com/subaru-hello/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=subaru-hello&count_private=true&show_icons=true" />
 </a>
 <a href="https://github.com/subaru-hello/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=subaru-hello" />
 </a>
-<br>
-<br>
-<br>
-<br>
-<br>
+  </h2>
 
 <h2><strong> From </strong> </h2>
 24歳　横浜出身
