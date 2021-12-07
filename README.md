@@ -13,7 +13,8 @@
 <h2><strong> Club </strong> </h2>
 体育会陸上競技部短距離に所属していました。
 ちなみに少しだけ足が速いです。
-https://youtu.be/9jHg9yiHU18
+【ハードルの動画】
+https://www.youtube.com/watch?v=LyWvh359Vyw
 
 <h2> 今何してるの? </h2>
 現在は、RUNTEQに所属しながら、バックエンドエンジニアを目指して学習中です。
@@ -33,14 +34,16 @@ Made from Yokohama, 23 years old.
 Graduated from Aoyama Gakuin Univ. aka Aogaku, majored in International Econ.
 Was a member of a track and field club, and my major is 110mH.
 A bit fast I am as I won this cup as below link.haha 
-https://youtu.be/9jHg9yiHU18
+【Hurdle】
+https://www.youtube.com/watch?v=LyWvh359Vyw
+
 
 - 👋 Hi, I’m @subaru-hello. 23 years old worked at Trust bank before!
 - 👀 I’m interested in high-nutritious meals with cheap price! feel free to text me if you know it!
 - 🌱 I’m currently learning Ruby ,using Rails6 as a library! 
 
 I got champion at Kanto Univ. Cahmpionship in 2019 while job hunting term lol.
-https://youtu.be/9jHg9yiHU18
+
 <!---
 subaru-hello/subaru-hello is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
