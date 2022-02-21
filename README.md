@@ -1,4 +1,4 @@
-<h2>
+j<h2>
 <a href="https://github.com/subaru-hello/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=subaru-hello&count_private=true&show_icons=true" />
 </a>
@@ -17,7 +17,7 @@
 https://www.youtube.com/watch?v=LyWvh359Vyw
 
 <h2> 今何してるの? </h2>
-現在は、RUNTEQに所属しながら、バックエンドエンジニアを目指して学習中です。
+Ruby on RailsやVue.jsを用いて受託開発を行なっています。
 バックエンドエンジニアとして叶えたいことは主に以下の２つ。
 - 社会人のWellBeingを向上させる
 - ２５歳までに熱狂できる軸を見つける
@@ -28,21 +28,15 @@ https://www.youtube.com/watch?v=LyWvh359Vyw
 
 <br>
 <h2> English Entry </h2>
-Really appriciate your visiting my profile through Battle of Runteq hosted by StartUp Technologies.Inc
+Really appriciate your visiting my profile through any sites or SNS links.
 Greate honor to introducing myself as below.
-Made from Yokohama, 23 years old.
+Made from Yokohama, 24 years old.
 Graduated from Aoyama Gakuin Univ. aka Aogaku, majored in International Econ.
 Was a member of a track and field club, and my major is 110mH.
 A bit fast I am as I won this cup as below link.haha 
 【Hurdle】
 https://www.youtube.com/watch?v=LyWvh359Vyw
 
-
-- 👋 Hi, I’m @subaru-hello. 23 years old worked at Trust bank before!
-- 👀 I’m interested in high-nutritious meals with cheap price! feel free to text me if you know it!
-- 🌱 I’m currently learning Ruby ,using Rails6 as a library! 
-
-I got champion at Kanto Univ. Cahmpionship in 2019 while job hunting term lol.
 
 <!---
 subaru-hello/subaru-hello is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
