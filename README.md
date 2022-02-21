@@ -1,5 +1,5 @@
 <div style="display: flex; justify-content: space-between;">
-j<h2>
+<h2>
 <a href="https://github.com/subaru-hello/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=subaru-hello&count_private=true&show_icons=true" />
 </a>
