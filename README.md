@@ -10,7 +10,7 @@
 </div>
 <div>
 <h2><strong> From </strong> </h2>
-24歳　横浜出身
+  <span style="color: red">24歳　横浜出身</span>
 青山学院大学国際政治経済学部
 <h2><strong> Club </strong> </h2>
 体育会陸上競技部短距離に所属していました。
