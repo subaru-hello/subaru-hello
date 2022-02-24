@@ -8,6 +8,7 @@
 </a>
   </h2>
 </div>
+<br/>
 <div>
 <h2><strong> From </strong> </h2>
   <span style="color: red">24歳　横浜出身</span>
