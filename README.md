@@ -6,5 +6,3 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=subaru-hello" />
 </a>
   </h2>
-【ハードルの動画】
-https://www.youtube.com/watch?v=LyWvh359Vyw
