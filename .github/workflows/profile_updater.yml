@@ -10,6 +10,7 @@ jobs:
       - uses: kumackey/profile-updater@v1
         with:
           zenn_user_id: subaru_hello
+          qiita_user_id: subaru-hello
       - name: Commit and push
         run: |
           git config --local user.name "GitHub Actions"
