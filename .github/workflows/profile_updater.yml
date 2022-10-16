@@ -1,6 +1,6 @@
 name: profile updater
 
-on: [ workflow_dispatch ]
+on: [ push ]
 
 jobs:
   profile-updater:
@@ -13,8 +13,8 @@ jobs:
           qiita_user_id: subaru-hello
       - name: Commit and push
         run: |
-          git config --local user.name "GitHub Actions"
-          git config --local user.email "action@github.com"
+          git config --local user.name "subaru-hello"
+          git config --local user.email "${{ secrets.EMAIL }}"
           git add .
           git commit -m "profile updated" || true
-          git push origin main
+          git push origin ${{ github.ref_name }}
