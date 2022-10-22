@@ -1,5 +1,6 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=subaru-hello&theme=vue-dark&locale=fr)](https://git.io/streak-stats)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=subaru-hello&show_icons=true&theme=dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=subaru-hello&layout=compact&theme=dark)](https://github.com/subaru-hello/github-readme-stats)
 ### Zenn記事
 <!-- profile updater begin: zenn -->
 - Oct 16 [何かと便利なObject.assign()](https://zenn.dev/subaru_hello/articles/05a3c4bbd44515)
