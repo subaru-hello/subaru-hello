@@ -2,11 +2,11 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=subaru-hello&layout=compact&theme=dark)](https://github.com/subaru-hello/github-readme-stats)
 ### Zenn記事
 <!-- profile updater begin: zenn -->
+- Oct 28 [【RSpec】Webmockを使ってテストをモックする](https://zenn.dev/subaru_hello/articles/9d8aec796a1538)
 - Oct 16 [何かと便利なObject.assign()](https://zenn.dev/subaru_hello/articles/05a3c4bbd44515)
 - Oct 14 [コンパイラ言語、インタプリタ言語、スクリプト言語](https://zenn.dev/subaru_hello/articles/e48135cb7e4d8c)
 - Oct 7 [オブジェクト指向エクササイズ](https://zenn.dev/subaru_hello/articles/ace387f65688ad)
 - Oct 7 [Capybaraで変更に強いテストを書く](https://zenn.dev/subaru_hello/articles/d291a0960244ce)
-- Oct 1 [λ式（ラムダ式）とは](https://zenn.dev/subaru_hello/articles/c584f757407e86)
 <!-- profile updater end: zenn -->
 
 ### Qiita記事
