@@ -13,9 +13,9 @@
 <!-- profile updater begin: qiita -->
 - Dec 11, **23 LGTM** [【Rails】自己結合関連付けでお酒の順番を表現してみた。](https://qiita.com/subaru-hello/items/ce8d02e4bde17ada0b82)
 - Aug 24, **1 LGTM** [Gridsomeを使って爆速でwebサイトを作成してみた。](https://qiita.com/subaru-hello/items/63b0a33069ebc0e6655f)
+- Aug 21 [ActiveRecord::ConnectionNotEstablishedの解決方法](https://qiita.com/subaru-hello/items/30f4ffd2dd2a3b2daa66)
 - Aug 20 [mimemagicのインストール エラーと格闘した軌跡](https://qiita.com/subaru-hello/items/7c46cb8eb44fdda1d270)
 - Aug 20 [railsで簡単にCRUD処理ができるようになる（コントローラー編）](https://qiita.com/subaru-hello/items/82f849eb5b5e7ad576b6)
-- Aug 17, **5 LGTM** [railsでブックマーク機能を実装する時のざっくりの流れ](https://qiita.com/subaru-hello/items/78d7364e11d2e67a0670)
 <!-- profile updater end: qiita -->
 
 <h3 align="left">Languages and Tools:</h3>
