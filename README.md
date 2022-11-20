@@ -2,11 +2,11 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=subaru-hello&layout=compact&theme=dark)](https://github.com/subaru-hello/github-readme-stats)
 ### Zenn記事
 <!-- profile updater begin: zenn -->
+- Nov 19 [【python】PDFをスクレイピングして中身をCSVへ出力する（後編）](https://zenn.dev/subaru_hello/articles/570e9e990374a6)
 - Nov 12 [【python】PDFをスクレイピングして中身をCSVへ出力する（前編）](https://zenn.dev/subaru_hello/articles/73253a46a76f7f)
 - Oct 30 [【python】スクレイピングしたデータをcsvに出力する](https://zenn.dev/subaru_hello/articles/38624760719abf)
 - Oct 28 [【RSpec】Webmockを使ってテストをモックする](https://zenn.dev/subaru_hello/articles/9d8aec796a1538)
 - Oct 16 [何かと便利なObject.assign()](https://zenn.dev/subaru_hello/articles/05a3c4bbd44515)
-- Oct 14 [コンパイラ言語、インタプリタ言語、スクリプト言語](https://zenn.dev/subaru_hello/articles/e48135cb7e4d8c)
 <!-- profile updater end: zenn -->
 
 ### Qiita記事
