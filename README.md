@@ -11,7 +11,7 @@
 
 ### Qiita記事
 <!-- profile updater begin: qiita -->
-- Dec 11, **23 LGTM** [【Rails】自己結合関連付けでお酒の順番を表現してみた。](https://qiita.com/subaru-hello/items/ce8d02e4bde17ada0b82)
+- Dec 11, **24 LGTM** [【Rails】自己結合関連付けでお酒の順番を表現してみた。](https://qiita.com/subaru-hello/items/ce8d02e4bde17ada0b82)
 - Aug 24, **1 LGTM** [Gridsomeを使って爆速でwebサイトを作成してみた。](https://qiita.com/subaru-hello/items/63b0a33069ebc0e6655f)
 - Aug 21 [ActiveRecord::ConnectionNotEstablishedの解決方法](https://qiita.com/subaru-hello/items/30f4ffd2dd2a3b2daa66)
 - Aug 20 [mimemagicのインストール エラーと格闘した軌跡](https://qiita.com/subaru-hello/items/7c46cb8eb44fdda1d270)
