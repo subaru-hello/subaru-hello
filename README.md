@@ -1,5 +1,4 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=subaru-hello&theme=vue-dark&locale=fr)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=subaru-hello&layout=compact&theme=dark)](https://github.com/subaru-hello/github-readme-stats)
 ### Zenn記事
 <!-- profile updater begin: zenn -->
 - Nov 19 [【python】PDFをスクレイピングして中身をCSVへ出力する（後編）](https://zenn.dev/subaru_hello/articles/570e9e990374a6)
