@@ -10,14 +10,7 @@ Currently going deeper into systems programming with Rust.
 - **Web products** — Next.js / React / Astro, from design (Figma) to deployment
 - **Systems programming** — writing a toy x86_64 OS in Rust (UEFI boot, bare metal),
   studying concurrency in C
-
-### Open source
-
-Contributing to the tools I use in production:
-
-- [Mastra](https://github.com/mastra-ai/mastra) — TypeScript AI agent framework
-- [Hono](https://github.com/honojs/hono) — web framework for the edge
-- [Biome](https://github.com/biomejs/biome) — Rust-based toolchain for the web
+  
 
 ### Elsewhere
 
